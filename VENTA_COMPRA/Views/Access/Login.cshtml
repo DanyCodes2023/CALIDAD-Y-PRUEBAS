@@ -1,0 +1,139 @@
+﻿@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+    <div class="card">
+        <h2>Login</h2>
+        <form asp-controller="Access" asp-action="Login" method="POST" class="inputForm">
+            <div class="input-group">
+                <label for="Correo">Correo electronico :</label>
+                <input type="email" placeholder="Ingresar correo electronico" id="Correo" name="correo" required />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+
+            <div class="input-group">
+                <label for="Password">Password:</label>
+                <input type="password" placeholder="Ingresar password" id="Password" name="password" required />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="remember-me">
+                <input type="checkbox" name="RememberMe" id="RememberMe" />
+                <label for="RememberMe">Recuérdame</label>
+            </div>
+
+            <button type="submit" class="btn-login">Login</button>
+        </form>
+        <div class="signup">
+            <a href="@Url.Action("Registrar", "Access")" class="link-register">Registrar</a>
+        </div>
+
+        <!-- Mostrar el mensaje de error si existe -->
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger mt-3">
+                @ViewBag.ErrorMessage
+            </div>
+        }
+    </div>
+
+    @section Scripts {
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+    }
+
+<style>
+   
+    .card {
+        background-color: #121116; /* Color de fondo de la tarjeta */
+        border: 2px solid #FA0555; /* Color de los bordes */
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        padding: 3rem;
+        max-width: 400px;
+        width: 100%;
+        text-align: center;
+        top: 10px;
+        left: 500px;
+        padding-top: 48px;
+        color: #F3F3F4; /* Color del texto dentro de la tarjeta */
+    }
+
+        .card h2 {
+            margin-bottom: 1.5rem;
+            color: #F3F3F4; /* Color del título */
+        }
+
+    .input-group {
+        margin-bottom: 1rem;
+        text-align: left;
+    }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+            color: #F3F3F4; /* Color de las etiquetas */
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #F3F3F4; /* Color del borde de los inputs */
+            border-radius: 5px;
+            background-color: #121116; /* Color de fondo de los inputs */
+            color: #F3F3F4; /* Color del texto en los inputs */
+        }
+
+    .btn-login {
+        background-color: #F10A66; /* Color de fondo del botón */
+        color: #FEB5C8; /* Color del texto del botón */
+        padding: 0.75rem;
+        border: none;
+        border-radius: 5px;
+        width: 100%;
+        cursor: pointer;
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+
+        .btn-login:hover {
+            background-color: #FA044F; /* Color de fondo cuando se pasa el mouse sobre el botón */
+        }
+
+    .signup {
+        margin-top: 1rem;
+        color: #F3F3F4; /* Color del texto de la sección de registro */
+    }
+
+        .signup a {
+            color: #F10A66; /* Color del enlace de registro */
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .signup a:hover {
+                color: #FA044F; /* Color del enlace de registro cuando se pasa el mouse sobre él */
+                text-decoration: underline;
+            }
+
+    .remember-me {
+        display: flex;
+        align-items: center;
+        margin-top: 1rem;
+        justify-content: flex-start;
+    }
+
+        .remember-me input {
+            margin-right: 0.5rem;
+        }
+
+        .remember-me label {
+            margin-left: 0.5rem;
+            font-size: 0.9rem;
+            color: #F3F3F4; /* Color del texto del checkbox */
+        }
+</style>

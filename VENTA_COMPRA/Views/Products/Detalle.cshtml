@@ -1,0 +1,332 @@
+﻿@model Product
+
+<div class="container-fluid">
+    <!-- Usa container-fluid para que la tarjeta ocupe más ancho -->
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Ajusta el ancho de la columna para que sea más ancha -->
+            <div class="card shadow-lg">
+                <div class="row g-0">
+                    <!-- Imagen -->
+                    <div class="col-md-6">
+                        <!-- Ajusta la proporción de la imagen -->
+                        <img src="/products/@Model.ImageFileName" class="img-fluid rounded-start product-img" alt="@Model.NombreAuto" />
+                    </div>
+                    <!-- Contenido de la tarjeta -->
+                    <div class="col-md-6">
+                        <!-- Ajusta la proporción del contenido -->
+                        <div class="card-body">
+                            <!-- Título y precio -->
+                            <h3 class="card-title">@Model.NombreAuto</h3>
+                            <h4 class="card-text text-primary">$@Model.Precio (S/ @Model.Precio * 3.759)</h4> <!-- Conversión aproximada -->
+
+                            <hr />
+                            <!-- Resumen -->
+                            <h5 class="mb-3">Resumen</h5>
+                            <div class="row">
+                                <div class="col-6">
+                                    <p class="card-text"><strong>Kilómetros:</strong> @Model.Kilometros</p>
+                                    <p class="card-text"><strong>Motor:</strong> @Model.Motor</p>
+                                    <p class="card-text"><strong>Año Modelo:</strong> @Model.AñoModelo</p>
+                                    <p class="card-text"><strong>Tipo:</strong> @Model.Tipo</p>
+                                </div>
+                                <div class="col-6">
+                                    <p class="card-text"><strong>Combustible:</strong> @Model.Combustible</p>
+                                    <p class="card-text"><strong>Color:</strong> @Model.Color</p>
+                                    <p class="card-text"><strong>Transmisión:</strong> @Model.Transmision</p>
+                                    <p class="card-text"><strong>Puertas:</strong> @Model.Puertas</p>
+                                </div>
+                            </div>
+                            <hr />
+                            <!-- Descripción -->
+                            <h5 class="mb-3">Descripción</h5>
+                            <p class="card-text">@Model.Descripcion</p>
+
+                            @{
+                                string estado = "";
+                                if (Model.Estado == 1)
+                                {
+                                    estado = "En stock";
+                                }
+                                if (Model.Estado==2)
+                                {
+                                    estado = "Vendido";
+                                }
+                            }
+                            <p class="card-text"><strong>Stock:</strong> @estado  <strong> Fecha de venta:</strong> @Model.CreateAt.ToShortDateString()</p>
+
+                            <!-- Botón de acción -->
+                            <div class="text-end">
+                                <a class="btn btn-primary1" asp-controller="Products" asp-action="Index">Volver a la lista</a>
+                                <!-- Botón para abrir el modal -->
+                                <button type="button" class="btn btn-primary1" data-bs-toggle="modal" data-bs-target="#contactModal">
+                                    Contactar!
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="contactModalLabel">Contactar!!</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                    <div class="row">
+                       
+                        <!-- El campo de email lo tomaremos desde el Model, no es necesario que el usuario lo rellene -->
+
+                        <div class="social-icons-container1">
+                            <div class="social-icons-mod">
+                                <a href="mailto:@Model.Email?subject=Consulta sobre el Auto&body=Hola, me gustaría obtener más información sobre el vehículo." title="Email">
+                                    <img src="~/iconos/email.png" alt="Email" />
+                                </a>
+                                <h2>@Model.Email</h2>
+                            </div>
+
+                            <div class="social-icons-mod">
+                                <a href="https://wa.me/@Model.Telefono?text=Hola, me gustaría obtener más información sobre el vehículo." target="_blank" title="WhatsApp">
+                                    <img src="~/iconos/whasap.png" alt="WhatsApp" />
+                                </a>
+                                <h2>@Model.Telefono</h2>
+                            </div>
+                        </div>
+
+                    </div>
+                       
+             </div>
+                   <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                   </div>
+        </div>
+    </div>
+</div>
+
+<!-- Agrega Bootstrap al proyecto -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+<style>
+
+    /*ESTILOS PARA CONTACTAR*/
+    .social-icons-container1 {
+        display: flex;
+        flex-direction: column; /* Alinea los íconos de arriba hacia abajo */
+        align-items: flex-start; /* Alinea los íconos a la izquierda */
+        justify-content: center; /* Centra los íconos verticalmente */
+        height: 25vh; /* Para centrar los íconos verticalmente en la página */
+    }
+
+        .social-icons-container1 img {
+            margin-bottom: 10px; /* Espacio entre los íconos */
+            width: 70px; /* Ancho fijo para los íconos */
+            height: 70px; /* Alto fijo para los íconos */
+            object-fit: contain; /* Ajusta la imagen dentro del contenedor */
+            cursor: pointer; /* Cambia el cursor para que se vea como un botón */
+            border-radius: 10px; /* Bordes redondeados para que parezca un botón */
+            background-color: #f1f1f1; /* Color de fondo para dar aspecto de botón */
+            padding: 10px; /* Espacio alrededor de los íconos */
+            box-shadow: 2px 2px 5px rgba(1, 2, 1, 0.1); /* Sombra para el efecto de botón */
+            transition: transform 0.3s ease, background-color 0.3s ease;/* Animación para el efecto hover */
+        }
+
+            .social-icons-container1 img:hover {
+                transform: scale(1.3); /* Efecto de agrandar los íconos al pasar el mouse */
+                background-color: #676767;
+            }
+
+        .social-icons-container1 h2 {
+            margin-left: 15px; /* Separación entre el ícono y el texto */
+        }
+
+    .social-icons-mod, .social-icons {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px; /* Espacio entre el conjunto de íconos */
+    }
+
+
+    /* Estilos para la tarjeta de producto */
+    .card {
+        background-color: #121116; /* Color de fondo de la tarjeta */
+        border: 2px solid #FA0555; /* Borde de la tarjeta con color #FA0555 */
+        margin-top: 20px;
+        padding: 20px; /* Añade relleno para aumentar el tamaño de la tarjeta */
+        font-size: 1.25rem; /* Aumenta el tamaño del texto dentro de la tarjeta */
+        max-width: 300%; /* Asegura que la tarjeta use todo el ancho disponible */
+    }
+
+    body {
+        background-color: #F0F2F6;
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif; /* O la fuente que estés usando */
+    }
+    h5{
+        color:aqua;
+        font-size: 1.7rem;
+    }
+    strong{
+        color: #FFFFFF;
+    }
+
+    .card-title {
+        font-size: 2rem; /* Aumenta el tamaño del título */
+        font-weight: 600;
+        color: #FE027B; /* Color del nombre del auto */
+    }
+
+    .card-text {
+        font-size: 1.25rem; /* Aumenta el tamaño del texto */
+        color: #676767; /* Color general de las letras */
+    }
+
+    /* Estilos para el resumen */
+    .card-body .summary p {
+        color: #F3F3F4; /* Color de los atributos en el resumen */
+    }
+
+    .card-body .summary strong {
+        color: #360D1B; /* Color del texto fuerte en el resumen */
+    }
+
+    .text-primary {
+        color: #FFC126 !important; /* Color del precio */
+        font-size: 1.25rem; /* Aumenta el tamaño del texto del precio */
+    }
+
+    .card-body .description p {
+        color: #FD0081; /* Color de la descripción y fecha de venta */
+    }
+
+    .card-body .description strong {
+        color: #FD0081; /* Color de la descripción y fecha de venta */
+    }
+
+    .card-body {
+        padding: 30px; /* Aumenta el relleno del cuerpo de la tarjeta */
+        color: #FBFBFB; /* Asegura que todos los textos sean blancos */
+    }
+
+    .product-img {
+        height: auto; /* Ajusta la altura para mantener la proporción */
+        width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
+        max-height: 400px; /* Limita la altura máxima para evitar que la imagen sea demasiado alta */
+        object-fit: cover; /* Mantiene la proporción de la imagen */
+    }
+
+    /* Estilos para los botones */
+    .btn-primary1 {
+        background-color: #F10A66;
+        border-color: #F10A66;
+        font-size: 1.25rem; /* Aumenta el tamaño del texto en el botón */
+        padding: 15px 25px; /* Aumenta el relleno del botón */
+        color: #FEB5C8; /* Color del texto del botón */
+        border-radius: 15px;
+    }
+
+        .btn-primary1:hover {
+            text-decoration: underline;
+            background-color: #FA044F; /* Cambiar color de fondo al pasar el cursor */
+            color: #FEB5C8 !important;
+           
+        }
+
+    /* Estilo para los separadores */
+    .card-body hr {
+        border-top: 2px solid #FA0555; /* Color del separador con #FA0555 */
+    }
+
+
+    /* Estilos generales para el modal */
+    .modal-content {
+        border-radius: 10px;
+        padding: 20px;
+        background-color: #fff;
+    }
+
+    /* Título del modal */
+    .modal-title {
+        color: #ff9800; /* Color similar al de la imagen */
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    /* Estilos del formulario dentro del modal */
+    .form-label {
+        font-weight: bold;
+        font-size: 1rem;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        font-size: 1rem;
+    }
+
+    /* Aumenta el tamaño de los checkboxes y su texto */
+    .form-check-input {
+        width: 20px;
+        height: 20px;
+    }
+
+    .form-check-label {
+        font-size: 0.9rem;
+        margin-left: 10px;
+        color: #666;
+    }
+
+    /* Estilos del botón Enviar Solicitud */
+
+    /* Estilos del botón cerrar */
+    .btn-secondary {
+        background-color: #777;
+        border-color: #777;
+        font-size: 1.1rem;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+
+        .btn-secondary:hover {
+            background-color: #666;
+            border-color: #666;
+        }
+
+    /* Aumenta el padding del modal */
+    .modal-body {
+        padding: 30px;
+    }
+
+    .modal-header {
+        border-bottom: 2px solid #ff9800;
+    }
+
+
+    /* Estilos específicos para campos más pequeños */
+    .col-md-3, .col-md-6 {
+        padding-bottom: 15px;
+    }
+
+    /* Estilo para checkbox de términos y condiciones */
+    .form-check {
+        margin-bottom: 20px;
+    }
+
+    /* Estilos de las etiquetas de error */
+    .text-danger {
+        font-size: 0.85rem;
+        color: red;
+    }
+</style>

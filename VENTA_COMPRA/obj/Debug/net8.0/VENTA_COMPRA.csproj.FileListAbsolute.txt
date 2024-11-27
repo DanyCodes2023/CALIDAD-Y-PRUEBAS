@@ -1,0 +1,994 @@
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\source\repos\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+C:\Users\user\Desktop\Nueva carpeta\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+D:\UPN\C-TRABAJOS\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+C:\Users\user\Desktop\DX\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+D:\UPN\CICLO 6\DISEÑO Y ARQUITECTURA DE SOFTWARE\VENTA\VENTA COMPRA - ESTA ESTA FEA\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.staticwebassets.runtime.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.exe
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.deps.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.runtimeconfig.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.AssemblyInfo.cs
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.VENTA_COMPRA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.build.VENTA_COMPRA.props
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VENTA_COMPRA.props
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VENTA_COMPRA.props
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\bundle\VENTA_COMPRA.styles.css
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\scopedcss\projectbundle\VENTA_COMPRA.bundle.scp.css
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_CO.3AD68ECC.Up2Date
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\refint\VENTA_COMPRA.dll
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.pdb
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\VENTA_COMPRA.genruntimeconfig.cache
+C:\Users\user\Desktop\EXAMEN-CALIDAD\CALIDAD FINAL\VENTA_COMPRA\VENTA_COMPRA\obj\Debug\net8.0\ref\VENTA_COMPRA.dll

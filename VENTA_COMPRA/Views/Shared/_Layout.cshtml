@@ -1,0 +1,392 @@
+﻿<!DOCTYPE html>
+
+@{
+    ViewData["Title"] = "Inicio";
+
+}
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PROYECTO</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+   
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/PROYECTO_CALIDAD.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/custom.css" asp-append-version="true" />
+
+    @RenderSection("Scripts", required: false)
+    
+
+    @section Scripts {
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js"></script>
+        <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+    }
+
+</head>
+
+<body>
+    <div class="home-container">
+        <header>
+            <div class="logo-search-container">
+                <div class="logo">
+                    <a asp-action="Index" asp-controller="Home">
+                        <img src="~/products/logo.png" alt="Logo" />
+                    </a>
+                </div>
+
+                <div class="search-box1">
+                    <form asp-action="Buscar" asp-controller="Products" method="get">
+                        <input type="text" name="query" placeholder="      ¿Qué auto buscas?" />
+                        <button type="submit" class="btn btn-primary">Buscar</button>
+                    </form>
+
+                </div>
+
+                <div class="nav-links">
+                    <a asp-action="Index" asp-controller="Home" class="btn btn-rosado">
+                        <i class="bi bi-plus-circle"></i> INICIO
+                    </a>
+                    <a asp-action="Index" asp-controller="Products" class="btn btn-rosado">
+                        <i class="bi bi-plus-circle"></i> VER AUTOS
+                    </a>
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a asp-action="Vender" asp-controller="Products" class="btn btn-rosado">
+                            <i class="bi bi-plus-circle"></i> VENDER AUTO
+                        </a>
+                        <a asp-action="VerPerfil" asp-controller="Products" class="btn btn-rosado">
+                            <i class="bi bi-person-circle"></i> HOLA, @User.Identity.Name!
+                        </a>
+                        <a href="@Url.Action("Logout", "Access")" class="btn btn-rosado">
+                            <i class="bi bi-box-arrow-right"></i> SALIR
+                        </a>
+                    }
+
+                    else
+                    {
+                        <a asp-action="Login" asp-controller="Access" class="btn btn-rosado">
+                            <i class="bi bi-plus-circle"></i> LOGIN
+                        </a>
+                    }
+
+
+                </div>
+            </div>
+
+        </header>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+        
+
+
+        <div id="support-button" class="support-button">
+            <span>¿Necesitas ayuda?</span>
+            <img id="support-toggle" class="support-icon" src="/iconos/soporte.png" alt="Soporte" />
+        </div>
+
+        <!-- Ventana de soporte técnico -->
+        <div id="support-modal" class="support-modal">
+            <div class="support-content">
+                <span class="close">&times;</span>
+                <h2>Autoland Perú</h2>
+                <img src="https://autolandperu.zendesk.com/embeddable/avatars/17560345958413" alt="Logotipo de la compañía">
+                <p>¡Hola! Bienvenido a Autoland. ¿En qué te podemos ayudar?</p>
+                <ul>
+                    <li><button type="button">Quiero comprar un auto</button></li>
+                    <li><button type="button">Servicio técnico</button></li>
+                    <li><button type="button">Repuestos y Accesorios</button></li>
+                    <li><button type="button">Dejar un auto en pago</button></li>
+                    <li><button type="button">Otras consultas</button></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+        <!-- Pie de página -->
+        <footer>
+            <div class="footer-content">
+                <div class="company-info">
+
+                    <div class="social-icons">
+                        <a href="https://wa.me/51931659662" target="_blank" title="WhatsApp">
+                            <img src="~/products/whatsapp.png" alt="WhatsApp" />
+                        </a>
+                        <a href="https://www.facebook.com/profile.php?id=100008193092311" target="_blank" title="Facebook">
+                            <img src="~/products/facebook.png" alt="Facebook" />
+                        </a>
+                    </div>
+                    <h3>¿Qué es Dacars?</h3>
+
+                    <p>Dacars, donde comprar y vender tu auto usado es rápido y seguro. Aceptamos todas las marcas y modelos.</p>
+
+                    <h4>¿Qué hacemos?</h4>
+                    <p>Comprar o vender un auto usado a otra persona puede ser una caja de sorpresas, pero no en Dacars. Revisa el historial de impuestos y multas, chequea las condiciones mecánicas del auto y mucho más en nuestros Puntos seguros de Autopia. Además, te asistiremos durante el proceso de Transferencia Vehicular.</p>
+                </div>
+
+            </div>
+        </footer>
+
+
+    </div>
+    <script src="path/to/your/scripts.js"></script>
+    <script>
+        document.getElementById('support-toggle').onclick = function () {
+            document.getElementById('support-modal').style.display = 'block';
+        }
+
+        document.querySelector('.support-modal .close').onclick = function () {
+            document.getElementById('support-modal').style.display = 'none';
+        }
+
+        window.onclick = function (event) {
+            if (event.target == document.getElementById('support-modal')) {
+                document.getElementById('support-modal').style.display = 'none';
+            }
+        }
+    </script>
+
+</body>
+
+<style>
+
+    .support-button {
+        position: fixed;
+        bottom: 100px;
+        right: 10px;
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        z-index: 10;
+        display: flex;
+        align-items: center; /* Alinea verticalmente el texto y la imagen */
+        justify-content: center; /* Centra el contenido horizontalmente */
+        padding: 1px; /* Espacio interno reducido */
+        border-radius: 5px;
+    }
+
+    .support-icon {
+        width: 50px; /* Tamaño de la imagen */
+        height: 50px; /* Tamaño de la imagen */
+        border-radius: 10%; /* Bordes redondeados (opcional) */
+        cursor: pointer; /* Cambia el cursor para que parezca un botón interactivo */
+        transition: transform 0.3s ease; /* Animación suave para el tamaño */
+    }
+
+        .support-button span {
+        margin-right: 5px; /* Espacio entre el texto y la imagen */
+        font-size: 17px; /* Tamaño del texto reducido */
+        color: #000; /* Color del texto */
+        font-weight:revert; /* Peso de fuente normal */
+
+        }
+
+    #support-toggle:hover {
+        transform: scale(1.4); /* Agranda el botón al pasar el mouse */
+        background-color: #0056b3; /* Cambia el color de fondo al pasar el mouse */
+    }
+    .support-modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .support-content {
+        background-color: white;
+        margin: 15% auto;
+        padding: 20px;
+        border-radius: 5px;
+        width: 80%;
+        max-width: 600px;
+    }
+
+        .support-content h2 {
+            margin-top: 0;
+        }
+
+        .support-content .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+            .support-content .close:hover,
+            .support-content .close:focus {
+                color: black;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+    body {
+        margin: 0;
+        font-family: Bahnschrift, sans-serif;
+        color: #0B0E17;
+    }
+
+    .home-container {
+        text-align: center;
+    }
+
+    /* Header Styles */
+    .logo-search-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #0B0E17;
+        padding: 10px;
+        /*border: 2px solid orange;*/
+    }
+
+    .logo {
+        display: flex;
+        align-items: center;
+        font-size: 24px;
+        color: gray;
+    }
+
+        .logo img {
+            height: 80px;
+            margin-right: 10px;
+        }
+
+    .search-box1 {
+        display: flex;
+        align-items: stretch;
+    }
+
+        .search-box1 input {
+            width: 700px;
+            padding: 10px;
+            border: 2px solid #CD1130;
+            border-radius: 20px;
+        }
+
+        .search-box1 button {
+            background-color: #0B0E17;
+            border: solid;
+            cursor: pointer;
+            margin-left: auto;
+        }
+
+            .search-box1 button i {
+                color: #FA044F;
+                font-size: 18px;
+            }
+
+    .nav-links a {
+        margin-left: 20px;
+        text-decoration: none;
+        color: #FA044F;
+        font-size: 20px;
+    }
+
+        .nav-links a:hover {
+            color: #8B0200;
+        }
+
+
+    /* Company Info */
+    .company-info {
+        margin-top: -30px;
+        font-size: 50px;
+        color: white;
+        font-family: Bahnschrift, sans-serif;
+    }
+
+    /* Footer Styles */
+    footer {
+        /*position: fixed;*/
+        bottom: 0;
+        left: auto;
+        width: 100%;
+        background-color: #0B0E17;
+        padding: 20px;
+        /* border-top: 3px solid orange;*/
+        text-align: center;
+        font-size: 14px;
+        font-family: Bahnschrift, sans-serif;
+    }
+
+        footer .company-info h3 {
+            font-size: 5.5rem;
+            margin-bottom: 10px;
+            color: #ECEAE4;
+        }
+
+        footer .company-info h4 {
+            font-size: 4.25rem;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: #ECEAE4;
+        }
+
+        footer .company-info p {
+            font-size: 2rem;
+            line-height: 1.5;
+            color: darkgrey;
+        }
+
+    .footer-content {
+        display: flex;
+        justify-content: space-between; /* Espacia el texto y los íconos al borde */
+        align-items: center; /* Alinea verticalmente el texto y los íconos */
+    }
+
+    .company-info {
+        flex: 1; /* Permite que el área de información ocupe el espacio disponible */
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+        .social-icons a {
+            margin-left: 15px;
+        }
+
+        .social-icons img {
+            width: 40px;
+            height: 40px;
+        }
+
+    .social-icons {
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+
+        .social-icons a {
+            margin-left: 20px;
+        }
+
+        .social-icons img {
+            width: 45px;
+            height: 45px;
+            position: center;
+        }
+
+        .social-icons img:hover {
+            transform: scale(1.3); /* Efecto de agrandar los íconos al pasar el mouse */
+            background-color: #0000; /* Cambia el color de fondo al pasar el cursor (verde) */
+        }
+
+</style>

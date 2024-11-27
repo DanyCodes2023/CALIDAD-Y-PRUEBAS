@@ -1,0 +1,153 @@
+/* _content/VENTA_COMPRA/Views/Shared/_Layout.cshtml.rz.scp.css */
+
+body[b-712q23sxgj] {
+    margin: 0;
+    font-family: Bahnschrift, sans-serif;
+    color: #0B0E17;
+}
+
+.home-container[b-712q23sxgj] {
+    text-align: center;
+}
+
+/* Header Styles */
+.logo-search-container[b-712q23sxgj] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0B0E17;
+    padding: 10px;
+    /*border: 2px solid orange;*/
+}
+
+.logo[b-712q23sxgj] {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: gray;
+}
+
+    .logo img[b-712q23sxgj] {
+        height: 80px;
+        margin-right: 10px;
+    }
+
+.search-box[b-712q23sxgj] {
+    display: flex;
+    align-items: stretch;
+}
+
+    .search-box input[b-712q23sxgj] {
+        width: 700px;
+        padding: 10px;
+        border: 2px solid #CD1130;
+        border-radius: 20px;
+    }
+
+    .search-box button[b-712q23sxgj] {
+        background-color: #0B0E17;
+        border: solid;
+        cursor: pointer;
+        margin-left: auto;
+    }
+
+        .search-box button i[b-712q23sxgj] {
+            color: #FA044F;
+            font-size: 18px;
+        }
+
+.nav-links a[b-712q23sxgj] {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #FA044F;
+    font-size: 20px;
+}
+
+    .nav-links a:hover[b-712q23sxgj] {
+        color: #8B0200;
+    }
+
+
+/* Company Info */
+.company-info[b-712q23sxgj] {
+    margin-top: -30px;
+    font-size: 50px;
+    color: white;
+    font-family: Bahnschrift, sans-serif;
+}
+
+/* Footer Styles */
+footer[b-712q23sxgj] {
+    /*position: fixed;*/
+    bottom: 0;
+    left: auto;
+    width: 100%;
+    background-color: #0B0E17;
+    padding: 20px;
+    /* border-top: 3px solid orange;*/
+    text-align: center;
+    font-size: 14px;
+    font-family: Bahnschrift, sans-serif;
+}
+
+    footer .company-info h3[b-712q23sxgj] {
+        font-size: 5.5rem;
+        margin-bottom: 10px;
+        color: #ECEAE4;
+    }
+
+    footer .company-info h4[b-712q23sxgj] {
+        font-size: 4.25rem;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        color: #ECEAE4;
+    }
+
+    footer .company-info p[b-712q23sxgj] {
+        font-size: 2rem;
+        line-height: 1.5;
+        color: darkgrey;
+    }
+
+.footer-content[b-712q23sxgj] {
+    display: flex;
+    justify-content: space-between; /* Espacia el texto y los íconos al borde */
+    align-items: center; /* Alinea verticalmente el texto y los íconos */
+}
+
+.company-info[b-712q23sxgj] {
+    flex: 1; /* Permite que el área de información ocupe el espacio disponible */
+}
+
+.social-icons[b-712q23sxgj] {
+    display: flex;
+    justify-content: flex-end;
+}
+
+    .social-icons a[b-712q23sxgj] {
+        margin-left: 10px;
+    }
+
+    .social-icons img[b-712q23sxgj] {
+        width: 70px;
+        height: 70px;
+    }
+
+.social-icons[b-712q23sxgj] {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+    .social-icons a[b-712q23sxgj] {
+        margin-left: 5px;
+    }
+
+    .social-icons img[b-712q23sxgj] {
+        width: 70px;
+        height: 70px;
+        position: center;
+    }
+
+

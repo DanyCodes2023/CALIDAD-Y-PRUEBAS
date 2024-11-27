@@ -1,0 +1,117 @@
+﻿@model List<Product>
+
+<div class="row mb-5">
+    <div class="col"></div>
+</div>
+
+<form asp-action="Buscar" asp-controller="Products" method="get" class="d-flex justify-content-end mb-4">
+  
+    <select name="ordenar" id="ordenar" class="form-control w-auto">
+        <option value="añoAsc">Año (Ascendente)</option>
+        <option value="añoDesc">Año (Descendente)</option>
+        <option value="precioAsc">Precio (Ascendente)</option>
+        <option value="precioDesc">Precio (Descendente)</option>
+    </select>
+    <button type="submit" class="btn btn-primary ml-2">Ordenar</button>
+</form>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <img src="/products/@product.ImageFileName" class="card-img-top" alt="@product.NombreAuto">
+                <div class="card-body">
+                    <h6 class="text-uppercase text-muted">@product.NombreAuto</h6>
+                    <h5 class="card-title">@product.AñoModelo</h5>
+                    <h4 class="text-dark font-weight-bold">$@product.Precio</h4>
+                    <hr />
+                    <div class="d-flex justify-content-between">
+                        <span>@product.Color</span>
+                        <span>@product.Kilometros km</span>
+                        <span>@product.Combustible</span>
+                        <span>@product.Tipo</span>
+                    </div>
+                    <a class="btn btn-link text-warning mt-2" asp-controller="Products" asp-action="Detalle" asp-route-id="@product.IdProduct">Ver este auto &rsaquo;</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .card {
+        background-color: #121116; /* Fondo de la tarjeta */
+        border: 2px solid #FA044F; /* Borde de la tarjeta con color #FA044F */
+        border-radius: 10px;
+        overflow: hidden;
+        border:10px;
+        height: 100%; /* Asegura que todas las tarjetas tengan la misma altura */
+        color: #FBFBFB; /* Color de las letras generales en toda la tarjeta */
+    }
+
+        .card img {
+            width: 100%;
+            height: 200px; /* Ajusta la altura según tus necesidades */
+            object-fit: cover; /* Mantiene la proporción de la imagen sin distorsionarla */
+            border-bottom: 5px solid #FA044F; /* Borde inferior con color #FA044F */
+        }
+
+        /* Nombre del auto */
+        .card h6 {
+            font-size: 0.875rem;
+            letter-spacing: 0.05em;
+            font-weight: bold;
+            color: #FE027B !important; /* Color del nombre del auto */
+        }
+
+        /* Año del modelo */
+        .card h5 {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+            color: #FE027B !important; /* Color del año del modelo */
+        }
+
+        /* Precio */
+        .card h4 {
+            font-size: 1.5rem;
+            margin-bottom: 0.75rem;
+            color: #FFC126 !important; /* Color del precio */
+        }
+
+    .card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        color: #FBFBFB; /* Color general de las letras */
+    }
+
+        .card-body hr {
+            margin: 1rem 0;
+            border-top: 2px solid #FA044F; /* Color del separador */
+        }
+
+        .card-body .d-flex span {
+            font-size: 0.875rem;
+            color: #FBFBFB; /* Color de los detalles en la tarjeta */
+        }
+
+        /* Estilos del botón */
+        .card-body a.btn-link {
+            font-size: 1rem;
+            font-weight: bold;
+            text-decoration: none;
+            background-color: #F10A66; /* Color de fondo del botón */
+            color: #FEB5C8 !important; /* Color del texto del botón */
+            padding: 10px 20px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+
+            .card-body a.btn-link:hover {
+                text-decoration: underline;
+                background-color: #FA044F; /* Cambiar color de fondo al pasar el cursor */
+                color: #FEB5C8 !important; /* Mantener color del texto del botón al hacer hover */
+            }
+</style>
